@@ -15,7 +15,6 @@ public class q9 {
             }
         }
         System.out.println(CanceledOrder);
-
     }
     
 }
