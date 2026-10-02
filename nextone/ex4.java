@@ -5,6 +5,8 @@ public class ex4 {
         int temperature = 35;
         if(temperature > 30){
             System.out.println("Hot");
+        }else{
+            System.out.println("Normal");
         }
     }
 }
